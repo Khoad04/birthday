@@ -154,9 +154,9 @@ body
     letter-spacing: 6px;
     color: #000046;
 }
-.inside h1 {
-    font-size: 120px;
-    line-height: 120px;
+.inside p {
+    font-size: 1.8;
+    line-height: 1.5;
 }
 .stickers {
     position: absolute;
