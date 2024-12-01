@@ -40,7 +40,7 @@ body
 }
 .inside 
 {
-    background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
+    background: linear-gradient(to right, #e7e7e7, #F4E7FB 30%);
     line-height: 3;
     padding: 0 20px;
     text-align: center;
@@ -70,7 +70,7 @@ body
 }
 .front 
 {
-    background-color: #ffffff;
+    background-color: #F4E7FB;
 }
 .back 
 {
