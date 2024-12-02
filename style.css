@@ -76,8 +76,8 @@ body
 {
     transform: rotateY(180deg);
     /* background: linear-gradient(to left, #e7e7e7, #ffffff 30%); */
-    background: url('boi.jpg') no-repeat center center;
-    background-size: 80% 80%;
+    background: url('boi_vechitrang.png') no-repeat center center;
+    background-size: 100% 100%;
     background-color: #ffffff; /* Màu trắng ở bốn góc */
     background-origin: content-box;
     background-clip: padding-box;
